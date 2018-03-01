@@ -2,5 +2,6 @@
 {
     class Entregador : Pessoa
     {
+
     }
 }
